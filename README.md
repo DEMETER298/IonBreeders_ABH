@@ -74,21 +74,26 @@ Test data shown below:
 (2) When the VariantCaller plugin is completed, record the serial number (arrow).
 
 
-　　　　　![VC_id](https://user-images.githubusercontent.com/40309394/65664999-7af23580-e075-11e9-8291-867d46cb7f4f.png)
+　　　　<img src="https://user-images.githubusercontent.com/40309394/65664999-7af23580-e075-11e9-8291-867d46cb7f4f.png" width="350">
  
 
 (3) Click the **`Select Plugins To Run`** button on the top of the Torrent Browser report screen.
 
-　　　　<img src="https://user-images.githubusercontent.com/40309394/54862396-68710980-4d7d-11e9-8b1c-60a429933818.png" width="400">
+　　　　<img src="https://user-images.githubusercontent.com/40309394/54862396-68710980-4d7d-11e9-8b1c-60a429933818.png" width="450">
 
 
 (4) From the list of plugins, click **IonBreeders_ABH**.
 
-       <img src="https://user-images.githubusercontent.com/40309394/65665969-a70eb600-e077-11e9-9ea6-940e95875a13.png" width="400"> 
+       <img src="https://user-images.githubusercontent.com/40309394/65665969-a70eb600-e077-11e9-9ea6-940e95875a13.png" width="500"> 
        
 
 
 (5) Set each item on the screen as follows:
+
+![ABH_screen](https://user-images.githubusercontent.com/40309394/65666640-091beb00-e079-11e9-9008-fc4b911c7389.png)
+**An error occurs if the number of genotyping sites is too large.**  
+**Acceptable parent genotype file size is up to about 2Mb.**  
+**At that time, select target chromosomes and reduce analysis regions.**  
 
 `Samples`: A list of barcode names and sample names of the samples analyzed in the run is displayed.
 
@@ -102,12 +107,9 @@ Test data shown below:
 
 `Select mother genotype file`: Select the mother's genotype file.
 
-`Output file name prefix`: Enter the desired file name.
+`Output file name prefix`: Enter the desired file name.  
 
-![ABH_screen](https://user-images.githubusercontent.com/40309394/65666640-091beb00-e079-11e9-9008-fc4b911c7389.png)
-**An error occurs if the number of genotyping sites is too large.  
-Acceptable parent genotype file size is up to about 2Mb.  
-At that time, select target chromosomes and reduce analysis regions.    **
+
 
 
 
