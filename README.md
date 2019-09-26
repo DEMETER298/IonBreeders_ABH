@@ -121,7 +121,9 @@ An error occurs if the number of genotyping sites is too large (acceptable paren
 When execution is completed, the following items are displayed on the screen.  
 * The output when parental genotypes are input (ABH format) appears as shown below.
 
-![7](https://user-images.githubusercontent.com/40309394/54862520-a8d18700-4d7f-11e9-877e-2e395f9d8e12.png)
+![ABHoutput_withParent](https://user-images.githubusercontent.com/40309394/65670039-8d716c80-e07f-11e9-98f1-6e9516a6d3c7.png)
+
+`list of barcode/sample used:bc_samples.txt`: Correspondence table of barcode name and sample name.
 
 `ABH (markers in rows/samples in columns)`: the CSV output file can be opened in Excel as shown below.
  
