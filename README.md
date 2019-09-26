@@ -51,12 +51,16 @@ Follow these steps for automatic installation of a plugin from the Torrent Brows
 ### 2-2 Input file
 Prepare the genotype data of the parents as a CSV (comma Separated Values) file (save as .csv) in the following format. **The chromosome name and physical location must match those of the reference and HotSpot (save as .vcf) used in the VariantCaller plugin.**
 
-![genotype_mother](https://user-images.githubusercontent.com/40309394/54862344-d406a700-4d7c-11e9-9f5a-72aaae15a94b.png) mother genotype (mother_input.csv) This file can be edited and saved in Excel as csv file.
+ #### Examples:  
+Input file of mother genotype (mother_input.csv). This file can be edited and saved in Excel as csv file.  
+![genotype_mother](https://user-images.githubusercontent.com/40309394/54862344-d406a700-4d7c-11e9-9f5a-72aaae15a94b.png)   
 
-![genotype_father](https://user-images.githubusercontent.com/40309394/54862345-d6690100-4d7c-11e9-9f32-83b076fd7dd9.png) father genotype (father_input.csv) This file can be edited and saved in Excel as csv file.
-
+Input file of father genotype (father_input.csv) This file can be edited and saved in Excel as csv file.  
+![genotype_father](https://user-images.githubusercontent.com/40309394/54862345-d6690100-4d7c-11e9-9f32-83b076fd7dd9.png)   
+  
+HotSpot file for VariantCaller plugin (Hotspot.vcf) This file can be edited and saved in Excel as tab-delimited txt file.  
 ![hotspot_example](https://user-images.githubusercontent.com/40309394/54862343-d10bb680-4d7c-11e9-95ab-408985079718.png)
- HotSpot file for VariantCaller plugin (Hotspot.vcf) This file can be edited and saved in Excel as tab-delimited txt file.
+
 
 
 Test data shown below:
