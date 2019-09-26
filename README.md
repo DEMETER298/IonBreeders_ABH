@@ -49,7 +49,7 @@ Follow these steps for automatic installation of a plugin from the Torrent Brows
 
 
 ### 2-2 Input file
-Prepare the genotype data of the parents as a CSV (comma Separated Values) file (save as .csv) in the following format. The chromosome name and physical location must match those of the reference and HotSpot (save as .vcf) used in the VariantCaller plugin.
+Prepare the genotype data of the parents as a CSV (comma Separated Values) file (save as .csv) in the following format. **The chromosome name and physical location must match those of the reference and HotSpot (save as .vcf) used in the VariantCaller plugin.**
 
 ![genotype_mother](https://user-images.githubusercontent.com/40309394/54862344-d406a700-4d7c-11e9-9f5a-72aaae15a94b.png) mother genotype (mother_input.csv) This file can be edited and saved in Excel as csv file.
 
