@@ -24,7 +24,8 @@ Follow these steps for automatic installation of a plugin from the Torrent Brows
 
 3.	In the **`Install or Upgrade Plugin`** tab, select downloaded zip file, and click **`Upload and Install`**.  
  
-![3](https://user-images.githubusercontent.com/40309394/54819317-e29e8100-4cde-11e9-91a8-3873b1263a93.png)
+![Github_parentalgenotype_hotspot](https://user-images.githubusercontent.com/40309394/65664271-f5ba5100-e073-11e9-990c-d37ff6cd4e1d.png)
+
 
 
 
