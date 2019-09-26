@@ -79,15 +79,14 @@ Test data shown below:
 
 (3) Click the **`Select Plugins To Run`** button on the top of the Torrent Browser report screen.
 
-　　　　![6](https://user-images.githubusercontent.com/40309394/54862396-68710980-4d7d-11e9-8b1c-60a429933818.png)
-       ![select_ABH](https://user-images.githubusercontent.com/40309394/65665969-a70eb600-e077-11e9-9ea6-940e95875a13.png)
+　　　　![6](https://user-images.githubusercontent.com/40309394/54862396-68710980-4d7d-11e9-8b1c-60a429933818.png)  
+
 
 (4) From the list of plugins, click **IonBreeders_ABH**.
 
-![ABH_screen](https://user-images.githubusercontent.com/40309394/65666640-091beb00-e079-11e9-9008-fc4b911c7389.png)
-An error occurs if the number of genotyping sites is too large.  
-Acceptable parent genotype file size is up to about 2Mb.  
-At that time, select target chromosomes and reduce analysis regions.    
+       ![select_ABH](https://user-images.githubusercontent.com/40309394/65665969-a70eb600-e077-11e9-9ea6-940e95875a13.png)
+       
+       
 
 (5) Set each item on the screen as follows:
 
@@ -105,7 +104,10 @@ At that time, select target chromosomes and reduce analysis regions.
 
 `Output file name prefix`: Enter the desired file name.
 
-
+![ABH_screen](https://user-images.githubusercontent.com/40309394/65666640-091beb00-e079-11e9-9008-fc4b911c7389.png)
+**An error occurs if the number of genotyping sites is too large.  
+Acceptable parent genotype file size is up to about 2Mb.  
+At that time, select target chromosomes and reduce analysis regions.    **
 
 
 
