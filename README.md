@@ -123,15 +123,17 @@ When execution is completed, the following items are displayed on the screen.
 
 ![ABHoutput_withParent](https://user-images.githubusercontent.com/40309394/65670039-8d716c80-e07f-11e9-98f1-6e9516a6d3c7.png)
 
-`list of barcode/sample used:bc_samples.txt`: Correspondence table of barcode name and sample name.
+`list of barcode/sample used:`: Correspondence table of barcode name and sample name.
+
+`list of markers with region names:` Correspondence table of marker name and amplicon name (Only when the target regions of amplicons are specified (.bed file) in VariantCaller). If no amplicon target is specified, the amplicon name will be displayed as N/A.
 
 `ABH (markers in rows/samples in columns)`: the CSV output file can be opened in Excel as shown below.
  
-![image](https://user-images.githubusercontent.com/40309394/54862533-e9c99b80-4d7f-11e9-926e-8f196be97898.png)
+![output_abh](https://user-images.githubusercontent.com/40309394/65671363-11c4ef00-e082-11e9-81e8-bea799be892d.png)  
 
 `ABH (R/qtl)`: the CSV output file can be opened in Excel as shown below.
 
-![image](https://user-images.githubusercontent.com/40309394/54862544-082f9700-4d80-11e9-9b20-6c7026f80093.png)
+![output_abh_Rqtl](https://user-images.githubusercontent.com/40309394/65671484-4d5fb900-e082-11e9-9b82-8caf8e2905c5.png)
 
 The letters are removed from sample name so that each sample is identified only by unique numbers. 
 
