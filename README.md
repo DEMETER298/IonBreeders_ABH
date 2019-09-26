@@ -65,6 +65,7 @@ HotSpot file for VariantCaller plugin (Hotspot.vcf) This file can be edited and 
  #### Example:  
 ![Github_parentalgenotype_hotspot](https://user-images.githubusercontent.com/40309394/65664271-f5ba5100-e073-11e9-990c-d37ff6cd4e1d.png)  
 These files are the data used in the following paper:  
+
 Targeted sequencing of polymorphic sites and construction of genetic linkage map using AmpliSeq technology.  
 Eri Ogiso-Tanaka, Fumio Taguchi-Shiobara, Akito Kaga, Makita Hajika and Masao Ishimoto.  
 Breeding Science (in submitted)  
@@ -164,7 +165,7 @@ NoCall_X indicate that despite aligning X reads at the site, no variant could be
 ![noParent_ABH](https://user-images.githubusercontent.com/40309394/65673757-60748800-e086-11e9-9b77-948872104263.png)  
 
 `ABH(R/qtl,IonBreeders)`:output file can be opened in Excel as shown below.  
-![noParent_Rqtl](https://user-images.githubusercontent.com/40309394/65673853-9154bd00-e086-11e9-8415-c5223f550a28.png)
+<img src="https://user-images.githubusercontent.com/40309394/65673853-9154bd00-e086-11e9-8415-c5223f550a28.png" width="650">  
 
 
 
