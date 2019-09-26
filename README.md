@@ -62,13 +62,14 @@ HotSpot file for VariantCaller plugin (Hotspot.vcf) This file can be edited and 
 ![hotspot_example](https://user-images.githubusercontent.com/40309394/54862343-d10bb680-4d7c-11e9-95ab-408985079718.png)
 
 
- #### Example:    
+ #### Example:  
+![Github_parentalgenotype_hotspot](https://user-images.githubusercontent.com/40309394/65664271-f5ba5100-e073-11e9-990c-d37ff6cd4e1d.png)  
 These files are the data used in the following paper:  
-Eri Ogiso-Tanaka, Fumio Taguchi-Shiobara, Akito Kaga, Makita Hajika and Masao Ishimoto. Targeted sequencing of polymorphic sites and construction of genetic linkage map using AmpliSeq technology. Breeding Science (in submitted)
-
-![Github_parentalgenotype_hotspot](https://user-images.githubusercontent.com/40309394/65664271-f5ba5100-e073-11e9-990c-d37ff6cd4e1d.png)
-
-
+Targeted sequencing of polymorphic sites and construction of genetic linkage map using AmpliSeq technology.  
+Eri Ogiso-Tanaka, Fumio Taguchi-Shiobara, Akito Kaga, Makita Hajika and Masao Ishimoto.  
+Breeding Science (in submitted)  
+  
+  
 
 
 ### 2-3 Execution:
@@ -99,8 +100,8 @@ Eri Ogiso-Tanaka, Fumio Taguchi-Shiobara, Akito Kaga, Makita Hajika and Masao Is
 ![ABH_screen](https://user-images.githubusercontent.com/40309394/65666640-091beb00-e079-11e9-9008-fc4b911c7389.png)
 An error occurs if the number of genotyping sites is too large (acceptable parent genotype file size is up to about 2Mb) At that time, select target chromosomes and reduce analysis regions.  
   
-#### Items
-
+    
+**Items**  
 `Samples`: A list of barcode names and sample names of the samples analyzed in the run is displayed.
 
 `Selected`: A list of the selected barcode and sample names is displayed. Select a line in the Samples column and click the `add sample` button to add a new sample.
@@ -135,9 +136,9 @@ The letters are removed from sample name so that each sample is identified only 
 
 
 
-* The output when no parent data are input (reference-based format) appears as shown below:
+* The output when no parent data are input (reference-based format) appears as shown below:  
  
-![8](https://user-images.githubusercontent.com/40309394/54862569-36ad7200-4d80-11e9-9937-86d75bb0e417.png)
+![ABHoutput_withParent](https://user-images.githubusercontent.com/40309394/65670039-8d716c80-e07f-11e9-98f1-6e9516a6d3c7.png)
 
 The ABH (markers in rows/samples in columns) output file can be opened in Excel as shown below.
 
