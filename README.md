@@ -48,7 +48,7 @@ Follow these steps for automatic installation of a plugin from the Torrent Brows
 4. R/qtl package input file (only ABH output)
 
 
-### 2-1-2 Input file
+### 2-2 Input file
 Prepare the genotype data of the parents as a CSV (comma Separated Values) file (save as .csv) in the following format. The chromosome name and physical location must match those of the reference and HotSpot (save as .vcf) used in the VariantCaller plugin.
 
 ![genotype_mother](https://user-images.githubusercontent.com/40309394/54862344-d406a700-4d7c-11e9-9f5a-72aaae15a94b.png) mother genotype (mother_input.csv) This file can be edited and saved in Excel as csv file.
@@ -58,14 +58,14 @@ Prepare the genotype data of the parents as a CSV (comma Separated Values) file 
 ![hotspot_example](https://user-images.githubusercontent.com/40309394/54862343-d10bb680-4d7c-11e9-95ab-408985079718.png)
  HotSpot file for VariantCaller plugin (Hotspot.vcf) This file can be edited and saved in Excel as tab-delimited txt file.
 
-(https://user-images.githubusercontent.com/40309394/65664271-f5ba5100-e073-11e9-990c-d37ff6cd4e1d.png)
 
+Test data shown below:
 ![Github_parentalgenotype_hotspot](https://user-images.githubusercontent.com/40309394/65664271-f5ba5100-e073-11e9-990c-d37ff6cd4e1d.png)
 
 
 
 
-### 2-1-3 Execution:
+### 2-3 Execution:
 
 (1) Execute the VairantCaller plugin with the HotSpot specified on the corresponding run report.
 
@@ -74,7 +74,7 @@ Prepare the genotype data of the parents as a CSV (comma Separated Values) file 
 (2) When the VariantCaller plugin is completed, record the serial number (arrow).
 
 
-　　　　　![5](https://user-images.githubusercontent.com/40309394/54862394-660eaf80-4d7d-11e9-837d-cdcaae078024.png)
+　　　　　![VC_id](https://user-images.githubusercontent.com/40309394/65664844-2bac0500-e075-11e9-8b13-2792983c8fe3.png)
  
 
 (3) Click the **`Select Plugins To Run`** button on the top of the Torrent Browser report screen.
