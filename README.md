@@ -91,10 +91,10 @@ Test data shown below:
 (5) Set each item on the screen as follows:
 
 ![ABH_screen](https://user-images.githubusercontent.com/40309394/65666640-091beb00-e079-11e9-9008-fc4b911c7389.png)
-**An error occurs if the number of genotyping sites is too large. (Acceptable parent genotype file size is up to about 2Mb)**  
-**At that time, select target chromosomes and reduce analysis regions.**  
+An error occurs if the number of genotyping sites is too large (acceptable parent genotype file size is up to about 2Mb) At that time, select target chromosomes and reduce analysis regions.  
   
-  
+####Items
+
 `Samples`: A list of barcode names and sample names of the samples analyzed in the run is displayed.
 
 `Selected`: A list of the selected barcode and sample names is displayed. Select a line in the Samples column and click the `add sample` button to add a new sample.
