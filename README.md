@@ -93,7 +93,7 @@ Test data shown below:
 ![ABH_screen](https://user-images.githubusercontent.com/40309394/65666640-091beb00-e079-11e9-9008-fc4b911c7389.png)
 An error occurs if the number of genotyping sites is too large (acceptable parent genotype file size is up to about 2Mb) At that time, select target chromosomes and reduce analysis regions.  
   
-####Items
+#### Items
 
 `Samples`: A list of barcode names and sample names of the samples analyzed in the run is displayed.
 
@@ -108,20 +108,11 @@ An error occurs if the number of genotyping sites is too large (acceptable paren
 `Select mother genotype file`: Select the mother's genotype file.
 
 `Output file name prefix`: Enter the desired file name.  
-
-
-
-
-
-
-
-
-
-
-(6) Output contents
-When execution is completed, the following items are displayed on the screen.
-
-* The output when parent data is input (ABH format) appears as shown below.
+  
+  
+(6) Output contents  
+When execution is completed, the following items are displayed on the screen.  
+* The output when parental genotypes are input (ABH format) appears as shown below.
 
 ![7](https://user-images.githubusercontent.com/40309394/54862520-a8d18700-4d7f-11e9-877e-2e395f9d8e12.png)
 
