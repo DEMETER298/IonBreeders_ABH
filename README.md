@@ -79,7 +79,7 @@ Test data shown below:
 
 (3) Click the **`Select Plugins To Run`** button on the top of the Torrent Browser report screen.
 
-　　　　<img src="https://user-images.githubusercontent.com/40309394/54862396-68710980-4d7d-11e9-8b1c-60a429933818.png" width="300px">
+　　　　<img src="https://user-images.githubusercontent.com/40309394/54862396-68710980-4d7d-11e9-8b1c-60a429933818.png", width="300px">
 
 
 (4) From the list of plugins, click **IonBreeders_ABH**.
