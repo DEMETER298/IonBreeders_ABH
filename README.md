@@ -137,18 +137,20 @@ When execution is completed, the following items are displayed on the screen.
   
 `ABH (R/qtl)`: the CSV output file can be opened in Excel as shown below.  
 
-<img src="https://user-images.githubusercontent.com/40309394/65671484-4d5fb900-e082-11e9-9b82-8caf8e2905c5.png" width="800">   
+<img src="https://user-images.githubusercontent.com/40309394/65671484-4d5fb900-e082-11e9-9b82-8caf8e2905c5.png" width="650">   
 The letters are removed from sample name so that each sample is identified only by unique numbers.  
 
 
 
 * The output when no parent data are input (reference-based format) appears as shown below:  
  
-![ABHoutput_withParent](https://user-images.githubusercontent.com/40309394/65670039-8d716c80-e07f-11e9-98f1-6e9516a6d3c7.png)
+![output_abh_NoParent](https://user-images.githubusercontent.com/40309394/65672964-e5f73880-e084-11e9-9fb7-0a82e208c1ac.png)
 
-The ABH (markers in rows/samples in columns) output file can be opened in Excel as shown below.
 
-![image](https://user-images.githubusercontent.com/40309394/54862581-580e5e00-4d80-11e9-9360-fbd3faac9610.png)
+
+`The ABH (markers in rows/samples in columns)`: output file can be opened in Excel as shown below.
+
+![noParent_output](https://user-images.githubusercontent.com/40309394/65673657-2c996280-e086-11e9-9beb-b1a4245c6262.png)
 
 The genotype is expressed as reference-type homozygous (Absent), variant homozygous (Homozygous), hetero (Heterozygous), and missing (Nocall).
 
@@ -158,6 +160,14 @@ NoCall_0 indicated that no reads were aligned at the site.
 
 NoCall_X indicate that despite aligning X reads at the site, no variant could be detected.
  
+`ABH(marker in row/sample in column)`:output file can be opened in Excel as shown below.  
+![noParent_ABH](https://user-images.githubusercontent.com/40309394/65673757-60748800-e086-11e9-9b77-948872104263.png)  
+
+`ABH(R/qtl,IonBreeders)`:output file can be opened in Excel as shown below.  
+![noParent_Rqtl](https://user-images.githubusercontent.com/40309394/65673853-9154bd00-e086-11e9-8415-c5223f550a28.png)
+
+
+
 
 
 
