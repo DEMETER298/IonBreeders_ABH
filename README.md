@@ -8,16 +8,12 @@ Genotyping and genomic selection plugins for the Ion Torrent NGS platform.
 # 1. Installation Instructions
 
 ## Download plugins
- 
-The three plugins of IonBreeders are provided as a zipped package containing files from the Latest Release project page on Github. 
-
-The file name will be of the format IonBreeders_ABH.zip, IonBreeders_Imputation.zip and IonBreeders_GenomicSelection.zip.
+The ABH plugin of IonBreeders is provided as a zipped package containing files from the Latest Release project page on Github.  
+The file name will be of the format IonBreeders_ABH.zip.
 
 ## Install
-
-Automatic installation from the Torrent Browser Plugin
-
-Follow these steps for automatic installation of a plugin from the Torrent Browser:
+Automatic installation from the Torrent Browser Plugin  
+Follow these steps for automatic installation of a plugin from the Torrent Browser:  
 1.	In your Torrent Browser, click the gear menu (near the top right) and select Plugins
 
 ![1](https://user-images.githubusercontent.com/40309394/54818632-14aee380-4cdd-11e9-845c-7c7d8ac95a1f.png)
@@ -32,11 +28,9 @@ Follow these steps for automatic installation of a plugin from the Torrent Brows
 
 
 
-# 2. Plugin manuals
+# 2. ABH plugin manuals
 
-## 2.1 ABH plugin
-
-### 2-1-1 Function
+### 2-1 Function
 
 (1) Output of specified sample data: only the data of the target sample selected on this plugin setting screen are extracted from the samples at the corresponding sequencing run.
 
@@ -56,16 +50,16 @@ Follow these steps for automatic installation of a plugin from the Torrent Brows
 
 
 ### 2-1-2 Input file
-Prepare the genotype data of the parents as a tab-delimited text file (save as .txt) in the following format. The chromosome name and physical location must match those of the reference and HotSpot (save as .vcf) used in the VariantCaller plugin.
+Prepare the genotype data of the parents as a CSV (comma Separated Values) file (save as .csv) in the following format. The chromosome name and physical location must match those of the reference and HotSpot (save as .vcf) used in the VariantCaller plugin.
 
-![genotype_mother](https://user-images.githubusercontent.com/40309394/54862344-d406a700-4d7c-11e9-9f5a-72aaae15a94b.png) mother genotype (mother_input.txt)
+![genotype_mother](https://user-images.githubusercontent.com/40309394/54862344-d406a700-4d7c-11e9-9f5a-72aaae15a94b.png) mother genotype (mother_input.csv) This file can be edited and saved in Excel as csv file.
 
-![genotype_father](https://user-images.githubusercontent.com/40309394/54862345-d6690100-4d7c-11e9-9f32-83b076fd7dd9.png) father genotype (father_input.txt)
+![genotype_father](https://user-images.githubusercontent.com/40309394/54862345-d6690100-4d7c-11e9-9f32-83b076fd7dd9.png) father genotype (father_input.csv) This file can be edited and saved in Excel as csv file.
 
 ![hotspot_example](https://user-images.githubusercontent.com/40309394/54862343-d10bb680-4d7c-11e9-95ab-408985079718.png)
- HotSpot file for VariantCaller plugin (Hotspot.vcf)
+ HotSpot file for VariantCaller plugin (Hotspot.vcf) This file can be edited and saved in Excel as tab-delimited txt file.
 
-
+https://github.com/DEMETER298/IonBreeders/files/3656282/Github_parental_genotype.pdf
 
 
 
