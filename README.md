@@ -129,11 +129,13 @@ When execution is completed, the following items are displayed on the screen.
 
 `ABH (markers in rows/samples in columns)`: the CSV output file can be opened in Excel as shown below.
  
-       <img src="https://user-images.githubusercontent.com/40309394/65671363-11c4ef00-e082-11e9-81e8-bea799be892d.png" width="800">
+       <img src="https://user-images.githubusercontent.com/40309394/65671363-11c4ef00-e082-11e9-81e8-bea799be892d.png" width="800">  
+       ![output_abh](https://user-images.githubusercontent.com/40309394/65671363-11c4ef00-e082-11e9-81e8-bea799be892d.png)  
 
 `ABH (R/qtl)`: the CSV output file can be opened in Excel as shown below.
 
-       <img src="https://user-images.githubusercontent.com/40309394/65671484-4d5fb900-e082-11e9-9b82-8caf8e2905c5.png" width="800">
+       <img src="https://user-images.githubusercontent.com/40309394/65671484-4d5fb900-e082-11e9-9b82-8caf8e2905c5.png" width="800">  
+       ![output_abh_Rqtl](https://user-images.githubusercontent.com/40309394/65671484-4d5fb900-e082-11e9-9b82-8caf8e2905c5.png)  
 
 The letters are removed from sample name so that each sample is identified only by unique numbers.  
 
