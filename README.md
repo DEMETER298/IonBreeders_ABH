@@ -59,7 +59,7 @@ Prepare the genotype data of the parents as a CSV (comma Separated Values) file 
 ![hotspot_example](https://user-images.githubusercontent.com/40309394/54862343-d10bb680-4d7c-11e9-95ab-408985079718.png)
  HotSpot file for VariantCaller plugin (Hotspot.vcf) This file can be edited and saved in Excel as tab-delimited txt file.
 
-https://github.com/DEMETER298/IonBreeders/files/3656282/Github_parental_genotype.pdf
+(https://user-images.githubusercontent.com/40309394/65664271-f5ba5100-e073-11e9-990c-d37ff6cd4e1d.png)
 
 
 
