@@ -153,20 +153,20 @@ The letters are removed from sample name so that each sample is identified only 
 
 ![noParent_output](https://user-images.githubusercontent.com/40309394/65673657-2c996280-e086-11e9-9beb-b1a4245c6262.png)
 
-The genotype is expressed as reference-type homozygous (Absent), variant homozygous (Homozygous), hetero (Heterozygous), and missing (Nocall).
+The genotype is expressed as reference-type homozygous (Absent), variant homozygous (Homozygous), hetero (Heterozygous), and missing (NoCall).
 
 If there are two marker names at the same variant, 2 markers integrated into 1 marker name as follows.
-* Hotspot site (2 marker names, but variant is same)
-Chr01_3405219_AT_AA  
-Chr01_3405220_T_A  
+* Hotspot site (2 marker names, but variant is same)  
+Chr01 3405219 Chr01_3405219_AT_AA  
+Chr01 3405220 Chr01_3405220_T_A  
 
-* ABH output (2 marker names are integrated 1 marker as following)
+* ABH output (2 marker names are integrated 1 marker as following)  
 Chr01 3405220	  Chr01_3405219_AT_AA_Chr01_3405220_T_A  
 
-***Missing genotype***
+**Missing genotype**  
 NoCall_0 indicated that no reads were aligned at the site.  
 NoCall_X indicate that despite aligning X reads at the site, no variant could be detected.  
-If the number of aligned reads is large but "No Call", it indicates that the variant was difficult to detect accurately (eg, homopolymer).  
+If the number of aligned reads is large but missing genotype as "No Call", it indicates that the variant was difficult to detect accurately (eg, homopolymer).  
  
 `ABH(marker in row/sample in column)`:output file can be opened in Excel as shown below.  
 ![noParent_ABH](https://user-images.githubusercontent.com/40309394/65673757-60748800-e086-11e9-9b77-948872104263.png)  
