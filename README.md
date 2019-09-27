@@ -155,15 +155,15 @@ The letters are removed from sample name so that each sample is identified only 
 
 The genotype is expressed as reference-type homozygous (Absent), variant homozygous (Homozygous), hetero (Heterozygous), and missing (Nocall).
 
-If there are two markers at the same variant site, 2 markers integrated into 1 marker name as following.
-
-Hotspot site
+If there are two marker names at the same variant, 2 markers integrated into 1 marker name as follows.
+* Hotspot site (2 marker names, but variant is same)
 Chr01_3405219_AT_AA  
 Chr01_3405220_T_A  
 
-ABH output
-Chr01 3405220	  hr01_3405219_AT_AA_Chr01_3405220_T_A  
+* ABH output (2 marker names are integrated 1 marker as following)
+Chr01 3405220	  Chr01_3405219_AT_AA_Chr01_3405220_T_A  
 
+***Missing genotype***
 NoCall_0 indicated that no reads were aligned at the site.  
 NoCall_X indicate that despite aligning X reads at the site, no variant could be detected.  
 If the number of aligned reads is large but "No Call", it indicates that the variant was difficult to detect accurately (eg, homopolymer).  
