@@ -8,8 +8,7 @@ Genotyping plugins for the Ion Torrent NGS platform.
 # 1. Installation Instructions
 
 ## Download plugins
-The ABH plugin of IonBreeders is provided as a zipped package containing files from the Latest Release project page on Github.  
-The file name will be of the format IonBreeders_ABH.zip.
+The ABH plugin of IonBreeders is provided as a zipped package containing files from the Latest Release project page on Github. The file name will be of the format IonBreeders_ABH.zip.
 
 ## Install
 Automatic installation from the Torrent Browser Plugin  
