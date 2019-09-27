@@ -155,11 +155,18 @@ The letters are removed from sample name so that each sample is identified only 
 
 The genotype is expressed as reference-type homozygous (Absent), variant homozygous (Homozygous), hetero (Heterozygous), and missing (Nocall).
 
- If there are two variants at the same site, variant 1 represent Homozygous_1 and variant 2 represent Homozygous_2. Mixed_1_2 indicates that two types of variants were detected in the same position. 
+If there are two markers at the same variant site, 2 markers integrated into 1 marker name as following.
 
-NoCall_0 indicated that no reads were aligned at the site. 
+Hotspot site
+Chr01_3405219_AT_AA  
+Chr01_3405220_T_A  
 
-NoCall_X indicate that despite aligning X reads at the site, no variant could be detected.
+ABH output
+Chr01 3405220	  hr01_3405219_AT_AA_Chr01_3405220_T_A  
+
+NoCall_0 indicated that no reads were aligned at the site.  
+NoCall_X indicate that despite aligning X reads at the site, no variant could be detected.  
+If the number of aligned reads is large but "No Call", it indicates that the variant was difficult to detect accurately (eg, homopolymer).  
  
 `ABH(marker in row/sample in column)`:output file can be opened in Excel as shown below.  
 ![noParent_ABH](https://user-images.githubusercontent.com/40309394/65673757-60748800-e086-11e9-9b77-948872104263.png)  
