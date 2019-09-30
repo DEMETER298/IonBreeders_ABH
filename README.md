@@ -138,8 +138,6 @@ The letters are removed from sample name so that each sample is identified only 
 
 
 
-<br>
-<br>
 #### 6-2 The output when no parent data are input (reference-based format) appears as shown below:  
  
 ![output_abh_NoParent](https://user-images.githubusercontent.com/40309394/65672964-e5f73880-e084-11e9-9fb7-0a82e208c1ac.png)
