@@ -142,9 +142,11 @@ The letters are removed from sample name so that each sample is identified only 
  
 ![output_abh_NoParent](https://user-images.githubusercontent.com/40309394/65672964-e5f73880-e084-11e9-9fb7-0a82e208c1ac.png)
 
+`List of barcode/sample used`: Barcode and sample name correspondence table.
 
+`The ABH (markers in rows/samples in columns)`:  output file can be opened in Excel.
 
-`The ABH (markers in rows/samples in columns)`: output file can be opened in Excel as shown below.
+`The ABH (markers in columns/samples in rows)`: output file can be opened in Excel as shown below.
 
 ![noParent_output](https://user-images.githubusercontent.com/40309394/65673657-2c996280-e086-11e9-9beb-b1a4245c6262.png)
 
@@ -160,9 +162,9 @@ Chr01 3405220	  Chr01_3405219_AT_AA_Chr01_3405220_T_A
 
 
 **Missing genotype**  
-NoCall_0 indicated that no reads were aligned at the site.  
-NoCall_X indicate that despite aligning X reads at the site, no variant could be detected.  
-If the number of aligned reads is large but missing genotype as "No Call", it indicates that the variant was difficult to detect accurately (eg, homopolymer).  
+NoCall_0 indicated that no reads were aligned at the site. NoCall_X indicate that despite aligning X reads at the site, no variant could be detected.  
+When the read depth required for variant detection is x10 in the parameter of VariantCaller. If the read depth is less than 10, variant is not detected and it becomes “No Call”. In addition, when variant detection is difficult (such as homopolymer sites), it may become “No Call” even if there is a sufficient read depth.
+ 
  
 `ABH(marker in row/sample in column)`:output file can be opened in Excel as shown below.  
 ![noParent_ABH](https://user-images.githubusercontent.com/40309394/65673757-60748800-e086-11e9-9b77-948872104263.png)  
