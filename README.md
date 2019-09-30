@@ -159,6 +159,7 @@ Chr01 3405220 Chr01_3405220_T_A
 * ABH output (2 marker names are integrated 1 marker as following)  
 Chr01 3405220	  Chr01_3405219_AT_AA_Chr01_3405220_T_A  
 
+
 **Missing genotype**  
 NoCall_0 indicated that no reads were aligned at the site.  
 NoCall_X indicate that despite aligning X reads at the site, no variant could be detected.  
