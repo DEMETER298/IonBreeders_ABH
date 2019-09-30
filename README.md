@@ -91,10 +91,6 @@ Breeding Science (in submitted)
 
 (4) From the list of plugins, click **IonBreeders_ABH**.
 
-       <img src="https://user-images.githubusercontent.com/40309394/65665969-a70eb600-e077-11e9-9ea6-940e95875a13.png" width="500">  
-       
-
-
 (5) Set each item on the screen as follows:
 
 ![ABH_screen](https://user-images.githubusercontent.com/40309394/65666640-091beb00-e079-11e9-9008-fc4b911c7389.png)
