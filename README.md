@@ -131,10 +131,11 @@ When execution is completed, the following items are displayed on the screen.
 
 <img src="https://user-images.githubusercontent.com/40309394/65672687-67020000-e084-11e9-9f2c-c3b12583ac59.png" width="800">  
   
-`ABH (R/qtl)`: the CSV output file can be opened in Excel as shown below.  
+`ABH (R/qtl)`: the CSV output file for R/qtl format can be opened in Excel as shown below.
+The letters are removed from sample name so that each sample is identified only by unique numbers. Output ABH-encoded genotype file only when parents genotype information is given.
 
 <img src="https://user-images.githubusercontent.com/40309394/65671484-4d5fb900-e082-11e9-9b82-8caf8e2905c5.png" width="650">   
-The letters are removed from sample name so that each sample is identified only by unique numbers.  
+
 
 
 <br>
