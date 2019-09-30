@@ -115,7 +115,7 @@ An error occurs if the number of genotyping sites is too large (acceptable paren
   
 (6) Output contents  
 When execution is completed, the following items are displayed on the screen.  
-* The output when parental genotypes are input (ABH format) appears as shown below.
+### The output when parental genotypes are input (ABH format) appears as shown below.
 
 ![ABHoutput_withParent](https://user-images.githubusercontent.com/40309394/65670039-8d716c80-e07f-11e9-98f1-6e9516a6d3c7.png)
 
@@ -139,7 +139,7 @@ The letters are removed from sample name so that each sample is identified only 
 
 <br>
 <br>
-* The output when no parent data are input (reference-based format) appears as shown below:  
+### The output when no parent data are input (reference-based format) appears as shown below:  
  
 ![output_abh_NoParent](https://user-images.githubusercontent.com/40309394/65672964-e5f73880-e084-11e9-9fb7-0a82e208c1ac.png)
 
