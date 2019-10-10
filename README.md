@@ -1,5 +1,5 @@
 # IonBreeders_ABH version 1.0
-Genotyping plugins for the Ion Torrent NGS platform.
+Genotyping plugin for the Ion Torrent NGS platform.
 
 
 [IonBreeders_ABHの使い方 日本語版 ver.1.0 ](https://github.com/DEMETER298/IonBreeders_ABH/wiki)
