@@ -56,15 +56,17 @@ Prepare the genotype data of the parents as a CSV (comma Separated Values) file 
 
  #### Input format:  
 Input file of mother genotype (mother_input.csv). This file can be edited and saved in Excel as csv file.  
+**If the same marker name exists, the normanl function of IMPUTAION plugin cannot be performed.**  
 ![genotype_mother](https://user-images.githubusercontent.com/40309394/54862344-d406a700-4d7c-11e9-9f5a-72aaae15a94b.png)   
 
 Input file of father genotype (father_input.csv) This file can be edited and saved in Excel as csv file.  
+**If the same marker name exists, the normanl function of IMPUTAION plugin cannot be performed.**  
 ![genotype_father](https://user-images.githubusercontent.com/40309394/54862345-d6690100-4d7c-11e9-9f32-83b076fd7dd9.png)   
   
 HotSpot file for VariantCaller plugin (Hotspot.vcf) This file can be edited and saved in Excel as tab-delimited txt file.  
 ![hotspot_example](https://user-images.githubusercontent.com/40309394/54862343-d10bb680-4d7c-11e9-95ab-408985079718.png)
 
-**Don't accept the same marker name.
+
 
  #### Example:  
 ![Github_parentalgenotype_hotspot](https://user-images.githubusercontent.com/40309394/65664271-f5ba5100-e073-11e9-990c-d37ff6cd4e1d.png)  
