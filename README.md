@@ -64,6 +64,7 @@ Input file of father genotype (father_input.csv) This file can be edited and sav
 HotSpot file for VariantCaller plugin (Hotspot.vcf) This file can be edited and saved in Excel as tab-delimited txt file.  
 ![hotspot_example](https://user-images.githubusercontent.com/40309394/54862343-d10bb680-4d7c-11e9-95ab-408985079718.png)
 
+**Don't accept the same marker name.
 
  #### Example:  
 ![Github_parentalgenotype_hotspot](https://user-images.githubusercontent.com/40309394/65664271-f5ba5100-e073-11e9-990c-d37ff6cd4e1d.png)  
