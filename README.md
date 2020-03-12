@@ -192,7 +192,7 @@ Institute of Crop Science / National Agriculture and Food Research Organization
 2-1-2, Kannondai, Tsukuba, Ibaraki 305-8518, Japan
 
 # Version
-Version 1.0
+Version 1.01 (12 March 2020 update)
 
 # Citing IonBreeders
 Ogiso-Tanaka E, Yabe S and Tanaka T (2019)  in press
