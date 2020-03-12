@@ -11,7 +11,7 @@ Genotyping plugin for the Ion Torrent NGS platform.
 The ABH plugin of IonBreeders is provided as a zipped package containing files from the Latest Release project page on Github. The file name will be of the format IonBreeders_ABH.zip.
 1. Click the **`IonBreeders_ABH.zip`** in the upper right and it will be displayed below **`View raw`** 
 2. Click the **`View raw`** and save the zip file to you local computer. (right click on the Windows, one click on the Mac)
-3. Don't unzip the downloaded IonBreeders_Imputation.zip file.
+3. Don't unzip the downloaded IonBreeders_ABH.zip file.
 
 ## Install
 Automatic installation from the Torrent Browser Plugin  
