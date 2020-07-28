@@ -186,7 +186,7 @@ When the read depth required for variant detection is x10 in the parameter of Va
 ***
 
 # Contact
-Eri Ogiso-Tanaka, Ph.D. demeter@affrc.go.jp
+Eri Ogiso-Tanaka, Ph.D. demeter298(at)gmail.com
 
 Institute of Crop Science / National Agriculture and Food Research Organization
 2-1-2, Kannondai, Tsukuba, Ibaraki 305-8518, Japan
